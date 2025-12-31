@@ -12,4 +12,4 @@ A command-line tool that demonstrates:
 * **History Management:** Tracking session operations within a class.
 
 **How to run:**
-`python oop-calculator-cli.py`
+`python eng-calc-app.py`
